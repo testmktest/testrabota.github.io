@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Cambria';
+   font-display: swap;
+   src: url('Cambria/font.ttf');
+}
+@font-face {
+   font-family: 'eurof55';
+   font-display: swap;
+   src: url('eurof55/font.ttf');
+}
